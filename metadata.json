@@ -1,0 +1,5 @@
+{
+  "name": "LitiScan",
+  "description": "An application to analyze bank statements, identify specific discounts, and export the findings to an Excel file.",
+  "requestFramePermissions": []
+}
